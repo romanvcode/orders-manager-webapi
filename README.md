@@ -1,1 +1,1 @@
-# OrdersManager.Solution
+Sample Web API that provide you with orders management
